@@ -1,6 +1,5 @@
 AWSTemplateFormatVersion: '2010-09-09'
-Description: '(SO9459) Phase 2 CloudFormation: Guidance for AWS Transform for VMware with existing IAM Identity Center organization instance '
-
+Description: '(SO9459) Phase 2 CloudFormation: Guidance for AWS Transform for VMware and .NET with existing IAM Identity Center organization instance '
 Parameters:
   AccountNumber:
     Type: String
