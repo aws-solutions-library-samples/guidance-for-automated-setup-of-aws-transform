@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: '2010-09-09'
-Description: 'Phase 1 CloudFormation: AWS Organizations setup for Guidance for AWS Transform for VMware'
+Description: 'Phase 1 CloudFormation: AWS Organizations setup for Guidance for AWS Transform for VMware and .NET'
 
 Resources:
   # Enable AWS Organizations
